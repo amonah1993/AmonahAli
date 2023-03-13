@@ -1,10 +1,4 @@
-/*
 
-Reflux Template
-
-https://templatemo.com/tm-531-reflux
-
-*/
 
 @import url(fontawesome.css);
 @import url("https://fonts.googleapis.com/css?family=Lato:100,300,400,700,900");
@@ -13,7 +7,7 @@ body {
 }
 
 #page-wraper {
-    background: url(../images/abd46876-0bd0-44e9-9614-fdcf81762a17.png) no-repeat center center fixed;
+    background: url(../images/footer_lodyas.png) no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -52,10 +46,11 @@ p1 {
 }
 
 h4 {
-    font-size: 26px;
+    font-size: 28px;
     font-weight: 700;
-    color: #fff;
+    color: #c87fc5;
     letter-spacing: 0.25px;
+    font-family: Georgia, serif;
 }
 
 h5 {
@@ -139,9 +134,10 @@ html {
 
 .main-nav li:hover a,
 .main-nav li.active a {
-    background: #BF40BF;
+    background: #c87fc5;
     color: #fff;
 }
+
 
 /* Sidebar Menu */
 
@@ -191,7 +187,7 @@ html {
 }
 
 .menu .social-network ul li a:hover {
-    background-color: #BF40BF;
+    background-color: #c87fc5;
     color: #fff;
 }
 
@@ -286,7 +282,7 @@ html {
     cursor: pointer;
     text-align: right;
     color: #000;
-    background-color: #BF40BF;
+    background-color: #c87fc5;
     width: 100%;
     height: 60px;
     text-align: center;
@@ -314,9 +310,10 @@ html {
 }
 
 .section-heading h2 {
-    font-size: 32px;
+    font-size: 38px;
     font-weight: 700;
-    color: #fff;
+    color: #c87fc5;
+    font-family: Georgia, serif;
 }
 
 .section-heading .line-dec {
@@ -371,7 +368,7 @@ button {
 button:hover {
     outline: none;
     background-color: #fff;
-    color: #BF40BF;
+    color: #c87fc5;
 }
 
 
@@ -584,7 +581,7 @@ figure.snip1321 span {
 figure.snip1321 i {
   position: relative!important;
   font-size: 18px;
-  background-color: #BF40BF;
+  background-color: #c87fc5;
   width: 40px;
   height: 40px;
   display: inline-block;
